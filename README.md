@@ -7,6 +7,5 @@
 <img src="https://github.com/skok1025/MeetingWebProject/blob/master/readimg/meet4.png"/>
 <img src="https://github.com/skok1025/MeetingWebProject/blob/master/readimg/meet5.png"/>
 <img src="https://github.com/skok1025/MeetingWebProject/blob/master/readimg/meet6.png"/>
-<img src="https://github.com/skok1025/MeetingWebProject/blob/master/readimg/meet7.png"/>
 <img src="https://github.com/skok1025/MeetingWebProject/blob/master/readimg/meet8.png"/>
 <img src="https://github.com/skok1025/MeetingWebProject/blob/master/readimg/meet9.png"/>
